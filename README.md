@@ -1,6 +1,6 @@
 # Cybersecurity-Ethanurie
 This repository shows my Cybersecurity diagrams, scripts, playbooks, etc.
-Two projects different projects have dedicated folders. The rest of the files relate to the project below.
+Two different projects have dedicated folders. The rest of the files relate to the project below.
 
 ## Automated ELK Stack Deployment
 
